@@ -1,3 +1,5 @@
+![aod-landingpage](https://user-images.githubusercontent.com/40532253/56712632-02f99b00-66e4-11e9-938e-32c97c175bfb.png)
+
 # Developer Portfolio - [Alchemist of Design](https://www.alchemistofdesign/)
 This portfolio was designed by modifying Agency, a Bootstrap template (info below). It is a showcase of web design and development services and projects.
 
