@@ -385,15 +385,24 @@
         <div class="col-lg-12">
           <form
       method="POST"
-      action="https://formspree.io/alchemistofdesign@gmail.com" id="contactForm"
+      action="https://formspree.io/alchemistofdesign@gmail.com"
     >
-      <legend>Name</legend>
-      <input type="text" /><br /><br />
-      <legend>Email</legend>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="form-group">
+            <input type="text" class="form-control" name="name" placeholder="Name">
+          </div>
+
+        </div>
+
+      </div>
+      <!-- <legend>Name</legend>
+      <input type="text" /><br /><br /> -->
+      <!-- <legend>Email</legend>
       <input type="email" /><br /><br />
       <legend>Subject</legend>
       <input type="text" /><br /><br />
-      <legend>Message</legend>
+      <legend>Message</legend> -->
 
       <textarea name="message" rows="8" cols="80"></textarea><br /><br />
       <button id="redirectButton" type="submit" class="button-connect">
